@@ -1,8 +1,5 @@
-#<img src="https://raw.githubusercontent.com/EzequielMat/EzequielMat/refs/heads/main/Polar.jpg" width="100">Hola, mi nombre es Brais Moure 👋
-
-### Freelance full-stack iOS & Android engineer
-
-![https://github.com/mouredev](./mouredev_github_profile.png)
+<img src="https://raw.githubusercontent.com/EzequielMat/EzequielMat/refs/heads/main/Polar.jpg" width="49" height="65">Hola, mi nombre es Ezequiel👋
+### Junior Developer
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
