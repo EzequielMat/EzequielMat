@@ -43,6 +43,6 @@ Hello, my name is Ezequiel, and I’m a Junior Developer. Although my experience
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Thanks+for+reading"></a>
 </p>
 
-<p style="font-size: 50px;">asdasdasd😊</p>
+<p style="font-size: 500px;">asdasdasd😊</p>
 
 
