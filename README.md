@@ -10,12 +10,10 @@ Desde 2018 comienzo a crear contenido divulgativo sobre programación en redes s
 
 ## Connect with me:
 
-[![Discord](https://skillicons.dev/icons?i=discord)](http://discordapp.com/users/546000303107997707)<span style="margin: 35px;"></span>[![linkedin](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/ezequielmat)
-
 [![Discord](https://img.shields.io/badge/Discord-shibaon-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](http://discordapp.com/users/546000303107997707)
-</br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/ezequielmat)
-[![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mouredev.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-EzequielMat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/ezequielmat)
+[![LinkedIn](https://img.shields.io/badge/Gmail-EzequielMat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/ezequielmat)
+[![Web](https://img.shields.io/badge/Web-comming_son.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mouredev.com)
 
 
 <h3 align="left">Languages and tools:</h3>
