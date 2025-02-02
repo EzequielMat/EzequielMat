@@ -11,6 +11,8 @@ Desde 2018 comienzo a crear contenido divulgativo sobre programación en redes s
 ## Connect with me:
 
 [![Discord](https://skillicons.dev/icons?i=discord)](http://discordapp.com/users/546000303107997707)<span style="margin: 35px;"></span>[![linkedin](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/ezequielmat)
+
+[![Discord](https://img.shields.io/badge/Discord-mouredev-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](http://discordapp.com/users/546000303107997707)
 </br>
 [![Twitter](https://img.shields.io/badge/Twitter-@mouredev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/mouredev)
 [![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/mouredev)
@@ -21,6 +23,7 @@ Desde 2018 comienzo a crear contenido divulgativo sobre programación en redes s
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
 [![Udemy](https://img.shields.io/badge/Udemy-Brais_Moure-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=101010)](https://www.udemy.com/course/swift_ios/?referralCode=04756B8423CBE177B930)
 [![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mouredev.com)
+
 
 <h3 align="left">Languages and tools:</h3>
 
