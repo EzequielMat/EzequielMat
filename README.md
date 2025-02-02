@@ -4,7 +4,7 @@ Hello, my name is Ezequiel, and I’m a Junior Developer. Although my experience
      - I enjoy working in teams.</br>
      - I’m always willing to help others.</br>
      - I am responsible.</br>
-     - And last but not least, I always have a smile for everyone 😀😃😄😁.
+     - And last but not least, I always have a smile for everyone <span style="font-size: 300px;">😄</span>.
      
 <h3 align="left">Languages and tools:</h3>
 
