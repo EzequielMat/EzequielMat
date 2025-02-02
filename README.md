@@ -30,5 +30,7 @@ Desde 2018 comienzo a crear contenido divulgativo sobre programación en redes s
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
 
+<h3 align="left">Skills I would like to develop in <b>2025</b>:</h3>
 
+[![My Skills](https://skillicons.dev/icons?i=docker,go,py)](https://skillicons.dev)
 
