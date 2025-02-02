@@ -16,7 +16,7 @@ Hello, my name is Ezequiel, and I’m a Junior Developer. Although my experience
 
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,eclipse,vscode,androidstudio)](https://skillicons.dev)
 
-<h3 align="left">Databases I have worked with:</h3>
+<h3 align="left">Databases:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
 
