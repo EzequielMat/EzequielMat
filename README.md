@@ -27,10 +27,8 @@ Hello, my name is Ezequiel, and I’m a Junior Developer. Although my experience
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/EzequielMat">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EzequielMat&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EzequielMat&layout=compact&langs_count=8&theme=algolia"/>
-</a>
 </p>
 
 ## Connect with me:
@@ -40,9 +38,8 @@ Hello, my name is Ezequiel, and I’m a Junior Developer. Although my experience
 [![Web](https://img.shields.io/badge/Web-Coming_soon-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)]()
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Thanks+for+reading"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Thanks+for+reading+❤️"></a>
 </p>
 
-<p style="font-size: 500px;">asdasdasd😊</p>
 
 
