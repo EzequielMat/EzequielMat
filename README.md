@@ -39,3 +39,8 @@ Hello, my name is Ezequiel, and I’m a Junior Developer. Although my experience
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-EzequielMat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ezequielmat)
 [![Gmail](https://img.shields.io/badge/Gmail-ezequielmatillatamurejo@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://mail.google.com/mail/?view=cm&fs=1&to=ezequielmatillatamurejo@gmail.com)
 [![Web](https://img.shields.io/badge/Web-Coming_soon-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)]()
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Thanks+for+reaching+this+point"></a>
+</p>
+
