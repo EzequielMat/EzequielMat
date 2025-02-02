@@ -19,7 +19,7 @@ Hello, my name is Ezequiel, and I’m a Junior Developer. Although my experience
 <h3 align="left">Databases:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+<img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
           
 
           
