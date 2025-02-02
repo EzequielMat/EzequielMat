@@ -19,6 +19,8 @@ Hello, my name is Ezequiel, and I’m a Junior Developer. Although my experience
 <h3 align="left">Databases:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+          
 
           
 
@@ -29,8 +31,8 @@ Hello, my name is Ezequiel, and I’m a Junior Developer. Although my experience
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EzequielMat&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EzequielMat&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EzequielMat&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EzequielMat&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
 ## Connect with me:
