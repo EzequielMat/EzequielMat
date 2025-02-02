@@ -9,20 +9,18 @@ Hello, my name is Ezequiel, and I’m a Junior Developer. Although my experience
 <h3 align="left">Languages and tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,java,kotlin)](https://skillicons.dev)
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" />
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,git,github)](https://skillicons.dev)
 
 <h3 align="left">IDEs:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,eclipse,vscode,androidstudio)](https://skillicons.dev)
 
-
-[![My Skills](https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jetpackcompose/jetpackcompose-original-wordmark.svg =200x100){: width="100" height="100"}](https://skillicons.dev)
-
-
 <h3 align="left">Databases:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
+
+          
 
 <h3 align="left">Skills I would like to develop in <b>2025</b>:</h3>
 
