@@ -4,7 +4,7 @@ Hello, my name is Ezequiel, and I’m a Junior Developer. Although my experience
      - I enjoy working in teams.</br>
      - I’m always willing to help others.</br>
      - I am responsible.</br>
-     - And last but not least, I always have a smile for everyone <span style="font-size: 300px;">😄</span>.
+     - And last but not least, I always have a smile for everyone 😄.
      
 <h3 align="left">Languages and tools:</h3>
 
@@ -40,6 +40,9 @@ Hello, my name is Ezequiel, and I’m a Junior Developer. Although my experience
 [![Web](https://img.shields.io/badge/Web-Coming_soon-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)]()
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Thanks+for+reaching+this+point"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Thanks+for+reading"></a>
 </p>
+
+<p style="font-size: 50px;">😊</p>
+
 
