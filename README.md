@@ -10,7 +10,7 @@ Desde 2018 comienzo a crear contenido divulgativo sobre programación en redes s
 
 ## Connect with me:
 
-[![Discord](https://skillicons.dev/icons?i=discord)](http://discordapp.com/users/546000303107997707)<span></span>[![linkedin](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/ezequielmat)
+[![Discord](https://skillicons.dev/icons?i=discord)](http://discordapp.com/users/546000303107997707)<span style="margin: 35px;"></span>[![linkedin](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/ezequielmat)
 </br>
 [![Twitter](https://img.shields.io/badge/Twitter-@mouredev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/mouredev)
 [![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/mouredev)
