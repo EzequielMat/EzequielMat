@@ -9,7 +9,7 @@ Hello, my name is Ezequiel, and I’m a Junior Developer. Although my experience
 <h3 align="left">Languages and tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,java,kotlin)](https://skillicons.dev)
-<img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" />
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,git,github)](https://skillicons.dev)
 
 <h3 align="left">IDEs:</h3>
