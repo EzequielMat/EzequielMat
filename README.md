@@ -1,12 +1,10 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=white&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Ezequiel+👋"></a>
-</p>
+<h1 align="center"><b>Hi, I'm Ezequiel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 Hello, my name is Ezequiel, and I’m a Junior Developer. Although my experience in this field is limited, I’m highly motivated by the opportunity to keep learning and improving over time. Throughout my life, computer science has always fascinated me, and I could say that I was a "geek" even before I realized it. Now, I’d like to talk about my qualities:</br></br>
      - I enjoy working in teams.</br>
      - I’m always willing to help others.</br>
      - I am responsible.</br>
-     - And last but not least, I always have a smile for everyone.
+     - And last but not least, I always have a smile for everyone 😀😃😄😁.
      
 <h3 align="left">Languages and tools:</h3>
 
