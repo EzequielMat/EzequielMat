@@ -8,7 +8,7 @@ He trabajado en distintas multinacionales del sector, creando [MoureDev](https:/
 Desde 2018 comienzo a crear contenido divulgativo sobre programación en redes sociales, compaginándolo con mi actividad como freelance. Nuestra comunidad de habla hispana sobre desarrollo de software es una de las más grandes a nivel mundial (con cerca de dos millones de seguidores entre las distintas redes). Mi objetivo es devolver todo el conocimiento que la comunidad ha compartido conmigo de forma gratuita a lo largo de los años, así como ayudar a que más personas puedan acceder a su estudio.
 
 
-## Encuéntrame en:
+## Connect with me:
 
 [![YouTube](https://img.shields.io/badge/YouTube-Mouredev_by_Brais_Moure-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@mouredev)
 [![YouTube](https://img.shields.io/badge/YouTube-Mouredev_TV-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@mouredevtv)
@@ -26,7 +26,19 @@ Desde 2018 comienzo a crear contenido divulgativo sobre programación en redes s
 [![Udemy](https://img.shields.io/badge/Udemy-Brais_Moure-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=101010)](https://www.udemy.com/course/swift_ios/?referralCode=04756B8423CBE177B930)
 [![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mouredev.com)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,java,kotlin)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,git,github)](https://skillicons.dev)
+
+<h3 align="left">IDEs:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,eclipse,vscode,androidstudio)](https://skillicons.dev)
+
+<h3 align="left">Databases I have worked with:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
+
+
 
