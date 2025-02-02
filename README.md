@@ -1,10 +1,10 @@
 <h1 align="center"><b>Hi, I'm Ezequiel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 Hello, my name is Ezequiel, and I’m a Junior Developer. Although my experience in this field is limited, I’m highly motivated by the opportunity to keep learning and improving over time. Throughout my life, computer science has always fascinated me, and I could say that I was a "geek" even before I realized it. Now, I’d like to talk about my qualities:</br>
-     I enjoy working in teams.</br>
-     I’m always willing to help others.</br>
-     I am responsible.</br>
-     And last but not least, I always have a smile for everyone.
+     - I enjoy working in teams.</br>
+     - I’m always willing to help others.</br>
+     - I am responsible.</br>
+     - And last but not least, I always have a smile for everyone.
 
 ## Connect with me:
 [![Discord](https://img.shields.io/badge/Discord-shibaon-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](http://discordapp.com/users/546000303107997707)
