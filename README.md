@@ -17,7 +17,7 @@ Hello, my name is Ezequiel, and I’m a Junior Developer. Although my experience
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,eclipse,vscode,androidstudio)](https://skillicons.dev)
 
 
-[![My Skills](https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jetpackcompose/jetpackcompose-original-wordmark.svg){: width="100" height="100"}](https://skillicons.dev)
+[![My Skills](https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jetpackcompose/jetpackcompose-original-wordmark.svg =200x100){: width="100" height="100"}](https://skillicons.dev)
 
 
 <h3 align="left">Databases:</h3>
