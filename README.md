@@ -12,9 +12,12 @@ Hello, my name is Ezequiel, and I’m a Junior Developer. Although my experience
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" />
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,git,github)](https://skillicons.dev)
 
+
 <h3 align="left">IDEs:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,eclipse,vscode,androidstudio)](https://skillicons.dev)
+<img aling="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" />
+          
 
 <h3 align="left">Databases:</h3>
 
