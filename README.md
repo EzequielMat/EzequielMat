@@ -7,6 +7,7 @@ He trabajado en distintas multinacionales del sector, creando [MoureDev](https:/
 
 Desde 2018 comienzo a crear contenido divulgativo sobre programación en redes sociales, compaginándolo con mi actividad como freelance. Nuestra comunidad de habla hispana sobre desarrollo de software es una de las más grandes a nivel mundial (con cerca de dos millones de seguidores entre las distintas redes). Mi objetivo es devolver todo el conocimiento que la comunidad ha compartido conmigo de forma gratuita a lo largo de los años, así como ayudar a que más personas puedan acceder a su estudio.
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 ## Encuéntrame en:
 
 [![YouTube](https://img.shields.io/badge/YouTube-Mouredev_by_Brais_Moure-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@mouredev)
