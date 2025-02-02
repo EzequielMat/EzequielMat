@@ -17,6 +17,8 @@ Hello, my name is Ezequiel, and I’m a Junior Developer. Although my experience
 
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,eclipse,vscode,androidstudio)](https://skillicons.dev)
 <img aling="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" />
+<img aling="left" width="50px" style="padding-right:10px;" src="https://netbeans.apache.org/_/images/apache-netbeans.svg" />
+
           
 
 <h3 align="left">Databases:</h3>
