@@ -37,8 +37,8 @@ Hello, my name is Ezequiel, and I’m a Junior Developer. Although my experience
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EzequielMat&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EzequielMat&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EzequielMat&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EzequielMat&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
 ## Connect with me:
