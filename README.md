@@ -30,7 +30,7 @@ Hello, my name is Ezequiel, and I’m a Junior Developer. Although my experience
 
           
 
-<h3 align="left">Skills I would like to develop in <b>2025</b>:</h3>
+<h3 align="left">Skills I would like to develop in <b>2026</b>:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=docker,go,py)](https://skillicons.dev)
 
