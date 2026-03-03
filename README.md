@@ -44,7 +44,7 @@ Hello, my name is Ezequiel, and I’m a Junior Developer. Although my experience
 ## Connect with me:
 [![Discord](https://img.shields.io/badge/Discord-shibaon-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](http://discordapp.com/users/546000303107997707)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-EzequielMat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ezequielmat)
-[![Gmail](https://img.shields.io/badge/Gmail-ezequielmatillatamurejo@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://mail.google.com/mail/?view=cm&fs=1&to=ezequielmatillatamurejo@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-ezequiel.matilla.dev@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://mail.google.com/mail/?view=cm&fs=1&to=ezequiel.matilla.dev@gmail.com)
 [![Web](https://img.shields.io/badge/Web-Coming_soon-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)]()
 
 <p align="center">
